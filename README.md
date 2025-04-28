@@ -1,12 +1,29 @@
 <h1 align="center">Hi 👋, I'm A.R.Asrin Jumana</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
+- 🔭 I’m currently working on **....**
+
+- 🌱 I’m currently learning **Frontend frameworks**
+
+- 👯 I’m looking to collaborate on **....**
+
+- 🤝 I’m looking for help with **....**
+
+- 📝 I regularly write articles on [https://medium.com/@jumanaasrin](https://medium.com/@jumanaasrin)
+
 - 📫 How to reach me **jumanaasrin@gmail.com**
+
+- 📄 Know about my experiences [https://github.com/AsrinJumana712/MyCV.git](https://github.com/AsrinJumana712/MyCV.git)
+
+- ⚡ Fun fact **....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/asrin_jumana_f32ebbce958c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="asrin_jumana_f32ebbce958c" height="30" width="40" /></a>
+<a href="https://twitter.com/asrinjuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asrinjuman" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdul-razak-asrin-jumana-1a9018254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdul-razak-asrin-jumana-1a9018254/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/ar_jmn2001/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ar_jmn2001/?hl=en" height="30" width="40" /></a>
+<a href="https://medium.com/@jumanaasrin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jumanaasrin" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@asrnjmn6848" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@asrnjmn6848" height="30" width="40" /></a>
 </p>
 
